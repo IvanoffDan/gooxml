@@ -4,10 +4,10 @@ package main
 import (
 	"fmt"
 
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/baliance/gooxml/color"
+	"github.com/baliance/gooxml/document"
+	"github.com/baliance/gooxml/measurement"
+	"github.com/baliance/gooxml/schema/soo/wml"
 )
 
 func main() {

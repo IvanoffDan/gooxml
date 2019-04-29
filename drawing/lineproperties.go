@@ -8,10 +8,10 @@
 package drawing
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/dml"
+	"github.com/baliance/gooxml"
+	"github.com/baliance/gooxml/color"
+	"github.com/baliance/gooxml/measurement"
+	"github.com/baliance/gooxml/schema/soo/dml"
 )
 
 type LineProperties struct {

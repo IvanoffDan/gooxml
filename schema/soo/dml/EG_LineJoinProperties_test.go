@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/dml"
+	"github.com/baliance/gooxml/schema/soo/dml"
 )
 
 func TestEG_LineJoinPropertiesConstructor(t *testing.T) {

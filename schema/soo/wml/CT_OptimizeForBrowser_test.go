@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/baliance/gooxml/schema/soo/wml"
 )
 
 func TestCT_OptimizeForBrowserConstructor(t *testing.T) {

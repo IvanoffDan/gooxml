@@ -5,10 +5,10 @@ package main
 import (
 	"log"
 
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/baliance/gooxml/common"
+	"github.com/baliance/gooxml/document"
+	"github.com/baliance/gooxml/measurement"
+	"github.com/baliance/gooxml/schema/soo/wml"
 )
 
 func main() {

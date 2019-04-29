@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"baliance.com/gooxml"
+	"github.com/baliance/gooxml"
 )
 
 type CT_MemberProperties struct {

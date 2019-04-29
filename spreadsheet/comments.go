@@ -8,10 +8,10 @@
 package spreadsheet
 
 import (
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/schema/soo/sml"
-	"baliance.com/gooxml/spreadsheet/reference"
-	"baliance.com/gooxml/vmldrawing"
+	"github.com/baliance/gooxml/color"
+	"github.com/baliance/gooxml/schema/soo/sml"
+	"github.com/baliance/gooxml/spreadsheet/reference"
+	"github.com/baliance/gooxml/vmldrawing"
 )
 
 // Comments is the container for comments for a single sheet.

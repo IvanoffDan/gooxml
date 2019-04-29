@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml"
+	"github.com/baliance/gooxml"
 )
 
 type ST_ObjectType byte

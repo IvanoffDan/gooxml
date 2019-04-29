@@ -12,7 +12,7 @@ package dml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/baliance/gooxml"
 )
 
 type EG_FillProperties struct {

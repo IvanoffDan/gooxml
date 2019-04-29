@@ -18,8 +18,8 @@ import (
 	"sort"
 	"strings"
 
-	"baliance.com/gooxml/algo"
-	"baliance.com/gooxml/schema/soo/pkg/relationships"
+	"github.com/baliance/gooxml/algo"
+	"github.com/baliance/gooxml/schema/soo/pkg/relationships"
 )
 
 // RelationsPathFor returns the relations path for a given filename.

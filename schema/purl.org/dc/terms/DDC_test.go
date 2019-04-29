@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/purl.org/dc/terms"
+	"github.com/baliance/gooxml/schema/purl.org/dc/terms"
 )
 
 func TestDDCConstructor(t *testing.T) {

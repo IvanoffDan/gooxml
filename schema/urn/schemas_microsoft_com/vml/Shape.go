@@ -13,10 +13,10 @@ import (
 	"encoding/xml"
 	"strconv"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/excel"
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/word"
+	"github.com/baliance/gooxml"
+	"github.com/baliance/gooxml/schema/urn/schemas_microsoft_com/office/excel"
+	"github.com/baliance/gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
+	"github.com/baliance/gooxml/schema/urn/schemas_microsoft_com/office/word"
 )
 
 type Shape struct {

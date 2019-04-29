@@ -12,7 +12,7 @@ package wml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/baliance/gooxml"
 )
 
 type CT_DocPart struct {

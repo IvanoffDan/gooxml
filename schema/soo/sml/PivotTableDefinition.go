@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"strconv"
 
-	"baliance.com/gooxml"
+	"github.com/baliance/gooxml"
 )
 
 type PivotTableDefinition struct {

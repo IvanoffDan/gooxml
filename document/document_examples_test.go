@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"baliance.com/gooxml/document"
+	"github.com/baliance/gooxml/document"
 )
 
 func ExampleNew() {

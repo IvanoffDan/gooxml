@@ -10,12 +10,12 @@ package chart
 import (
 	"math/rand"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/drawing"
+	"github.com/baliance/gooxml"
+	"github.com/baliance/gooxml/color"
+	"github.com/baliance/gooxml/drawing"
 
-	"baliance.com/gooxml/schema/soo/dml"
-	crt "baliance.com/gooxml/schema/soo/dml/chart"
+	"github.com/baliance/gooxml/schema/soo/dml"
+	crt "github.com/baliance/gooxml/schema/soo/dml/chart"
 )
 
 // Chart is a generic chart.

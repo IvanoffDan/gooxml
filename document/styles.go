@@ -10,10 +10,10 @@ package document
 import (
 	"fmt"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/baliance/gooxml"
+	"github.com/baliance/gooxml/measurement"
+	"github.com/baliance/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/baliance/gooxml/schema/soo/wml"
 )
 
 // Styles is the document wide styles contained in styles.xml.

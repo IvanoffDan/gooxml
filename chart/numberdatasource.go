@@ -10,7 +10,7 @@ package chart
 import (
 	"fmt"
 
-	crt "baliance.com/gooxml/schema/soo/dml/chart"
+	crt "github.com/baliance/gooxml/schema/soo/dml/chart"
 )
 
 type NumberDataSource struct {

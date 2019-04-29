@@ -12,7 +12,7 @@ package vml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/baliance/gooxml"
 )
 
 type Formulas struct {

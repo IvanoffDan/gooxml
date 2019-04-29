@@ -8,10 +8,10 @@
 package chart
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/drawing"
-	"baliance.com/gooxml/schema/soo/dml"
-	crt "baliance.com/gooxml/schema/soo/dml/chart"
+	"github.com/baliance/gooxml"
+	"github.com/baliance/gooxml/drawing"
+	"github.com/baliance/gooxml/schema/soo/dml"
+	crt "github.com/baliance/gooxml/schema/soo/dml/chart"
 )
 
 type Legend struct {

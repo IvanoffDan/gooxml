@@ -7,8 +7,8 @@
 
 package chart
 
-import crt "baliance.com/gooxml/schema/soo/dml/chart"
-import "baliance.com/gooxml"
+import crt "github.com/baliance/gooxml/schema/soo/dml/chart"
+import "github.com/baliance/gooxml"
 
 // DoughnutChart is a Doughnut chart.
 type DoughnutChart struct {

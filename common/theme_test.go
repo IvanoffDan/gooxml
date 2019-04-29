@@ -13,9 +13,9 @@ import (
 	"os"
 	"testing"
 
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/testhelper"
-	"baliance.com/gooxml/zippkg"
+	"github.com/baliance/gooxml/common"
+	"github.com/baliance/gooxml/testhelper"
+	"github.com/baliance/gooxml/zippkg"
 )
 
 func TestThemeUnmarshal(t *testing.T) {

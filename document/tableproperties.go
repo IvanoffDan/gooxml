@@ -8,9 +8,9 @@
 package document
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/baliance/gooxml"
+	"github.com/baliance/gooxml/measurement"
+	"github.com/baliance/gooxml/schema/soo/wml"
 )
 
 // TableProperties are the properties for a table within a document

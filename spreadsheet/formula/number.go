@@ -10,7 +10,7 @@ package formula
 import (
 	"strconv"
 
-	"baliance.com/gooxml"
+	"github.com/baliance/gooxml"
 )
 
 type Number struct {

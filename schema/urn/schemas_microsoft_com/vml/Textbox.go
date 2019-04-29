@@ -12,8 +12,8 @@ package vml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/baliance/gooxml"
+	"github.com/baliance/gooxml/schema/soo/wml"
 )
 
 type Textbox struct {

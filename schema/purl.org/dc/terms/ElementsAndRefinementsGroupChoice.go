@@ -13,8 +13,8 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/purl.org/dc/elements"
+	"github.com/baliance/gooxml"
+	"github.com/baliance/gooxml/schema/purl.org/dc/elements"
 )
 
 type ElementsAndRefinementsGroupChoice struct {

@@ -11,10 +11,10 @@ import (
 	"bytes"
 	"testing"
 
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/schema/soo/wml"
-	"baliance.com/gooxml/testhelper"
+	"github.com/baliance/gooxml/common"
+	"github.com/baliance/gooxml/document"
+	"github.com/baliance/gooxml/schema/soo/wml"
+	"github.com/baliance/gooxml/testhelper"
 )
 
 func TestSimpleDoc(t *testing.T) {

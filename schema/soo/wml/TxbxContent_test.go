@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/baliance/gooxml/schema/soo/wml"
 )
 
 func TestTxbxContentConstructor(t *testing.T) {

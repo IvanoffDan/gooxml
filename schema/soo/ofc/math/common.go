@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/baliance/gooxml"
+	"github.com/baliance/gooxml/schema/soo/ofc/sharedTypes"
 )
 
 func ParseUnionST_OnOff(s string) (sharedTypes.ST_OnOff, error) {

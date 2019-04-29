@@ -6,9 +6,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/baliance/gooxml/document"
+	"github.com/baliance/gooxml/measurement"
+	"github.com/baliance/gooxml/schema/soo/wml"
 
 	"github.com/go-ole/go-ole/oleutil"
 )

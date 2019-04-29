@@ -14,8 +14,8 @@ import (
 	"os"
 	"strings"
 
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/spreadsheet"
+	"github.com/baliance/gooxml/document"
+	"github.com/baliance/gooxml/spreadsheet"
 )
 
 func main() {

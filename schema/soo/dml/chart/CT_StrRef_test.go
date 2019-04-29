@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/dml/chart"
+	"github.com/baliance/gooxml/schema/soo/dml/chart"
 )
 
 func TestCT_StrRefConstructor(t *testing.T) {
