@@ -8,7 +8,7 @@
 package document
 
 import (
-	"github.com/baliance/gooxml/schema/soo/wml"
+	"github.com/IvanoffDan/gooxml/schema/soo/wml"
 )
 
 // Paragraph is a paragraph within a document.

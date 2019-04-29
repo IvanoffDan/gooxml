@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/baliance/gooxml"
+	"github.com/IvanoffDan/gooxml"
 )
 
 type EG_BarChartShared struct {

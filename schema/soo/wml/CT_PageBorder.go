@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/baliance/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/IvanoffDan/gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type CT_PageBorder struct {

@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"image"
 
-	"github.com/baliance/gooxml/zippkg"
+	"github.com/IvanoffDan/gooxml/zippkg"
 )
 
 // DocBase is the type embedded in in the Document/Workbook/Presentation types

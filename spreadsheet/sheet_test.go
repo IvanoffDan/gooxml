@@ -13,8 +13,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/baliance/gooxml"
-	"github.com/baliance/gooxml/spreadsheet"
+	"github.com/IvanoffDan/gooxml"
+	"github.com/IvanoffDan/gooxml/spreadsheet"
 )
 
 func TestRowNumIncreases(t *testing.T) {

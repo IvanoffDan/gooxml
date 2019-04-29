@@ -2,9 +2,9 @@
 package main
 
 import (
-	"github.com/baliance/gooxml/document"
-	"github.com/baliance/gooxml/measurement"
-	"github.com/baliance/gooxml/schema/soo/wml"
+	"github.com/IvanoffDan/gooxml/document"
+	"github.com/IvanoffDan/gooxml/measurement"
+	"github.com/IvanoffDan/gooxml/schema/soo/wml"
 )
 
 var lorem = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lobortis, lectus dictum feugiat tempus, sem neque finibus enim, sed eleifend sem nunc ac diam. Vestibulum tempus sagittis elementum`

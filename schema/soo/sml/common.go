@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/baliance/gooxml"
+	"github.com/IvanoffDan/gooxml"
 )
 
 func ParseStdlibTime(s string) (time.Time, error) {

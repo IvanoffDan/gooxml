@@ -11,9 +11,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/baliance/gooxml"
-	"github.com/baliance/gooxml/common"
-	"github.com/baliance/gooxml/schema/soo/wml"
+	"github.com/IvanoffDan/gooxml"
+	"github.com/IvanoffDan/gooxml/common"
+	"github.com/IvanoffDan/gooxml/schema/soo/wml"
 )
 
 // Footer is a footer for a document section.

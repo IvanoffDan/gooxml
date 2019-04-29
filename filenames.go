@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/baliance/gooxml/algo"
+	"github.com/IvanoffDan/gooxml/algo"
 )
 
 // Common filenames used in zip packages.

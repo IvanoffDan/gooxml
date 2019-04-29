@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/baliance/gooxml"
-	"github.com/baliance/gooxml/schema/soo/dml/spreadsheetDrawing"
+	"github.com/IvanoffDan/gooxml"
+	"github.com/IvanoffDan/gooxml/schema/soo/dml/spreadsheetDrawing"
 )
 
 type CT_ObjectAnchor struct {

@@ -1,12 +1,12 @@
 package gooxml_test
 
 import (
-	"github.com/baliance/gooxml/document"
-	"github.com/baliance/gooxml/spreadsheet"
+	"github.com/IvanoffDan/gooxml/document"
+	"github.com/IvanoffDan/gooxml/spreadsheet"
 )
 
 func Example_document() {
-	// see the github.com/baliance/gooxml/document documentation or _examples/document
+	// see the github.com/IvanoffDan/gooxml/document documentation or _examples/document
 	// for more examples
 	doc := document.New()
 	doc.AddParagraph().AddRun().AddText("Hello World!")
@@ -14,7 +14,7 @@ func Example_document() {
 }
 
 func Example_spreadsheeet() {
-	// see the github.com/baliance/gooxml/spreadsheet documentation or _examples/spreadsheet
+	// see the github.com/IvanoffDan/gooxml/spreadsheet documentation or _examples/spreadsheet
 	// for more examples
 	ss := spreadsheet.New()
 	sheet := ss.AddSheet()

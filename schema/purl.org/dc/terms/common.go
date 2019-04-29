@@ -9,7 +9,7 @@
 
 package terms
 
-import "github.com/baliance/gooxml"
+import "github.com/IvanoffDan/gooxml"
 
 // init registers constructor functions for dynamically creating elements based off the XML namespace and name
 func init() {

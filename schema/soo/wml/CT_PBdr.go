@@ -12,7 +12,7 @@ package wml
 import (
 	"encoding/xml"
 
-	"github.com/baliance/gooxml"
+	"github.com/IvanoffDan/gooxml"
 )
 
 type CT_PBdr struct {

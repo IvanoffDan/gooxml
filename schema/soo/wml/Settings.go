@@ -12,9 +12,9 @@ package wml
 import (
 	"encoding/xml"
 
-	"github.com/baliance/gooxml"
-	"github.com/baliance/gooxml/schema/soo/ofc/math"
-	"github.com/baliance/gooxml/schema/soo/schemaLibrary"
+	"github.com/IvanoffDan/gooxml"
+	"github.com/IvanoffDan/gooxml/schema/soo/ofc/math"
+	"github.com/IvanoffDan/gooxml/schema/soo/schemaLibrary"
 )
 
 type Settings struct {

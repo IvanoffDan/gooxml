@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/baliance/gooxml/schema/soo/wml"
+	"github.com/IvanoffDan/gooxml/schema/soo/wml"
 )
 
 func TestSettingsConstructor(t *testing.T) {

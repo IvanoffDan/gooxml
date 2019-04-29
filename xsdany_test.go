@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/baliance/gooxml"
+	"github.com/IvanoffDan/gooxml"
 )
 
 func TestXSDAny(t *testing.T) {

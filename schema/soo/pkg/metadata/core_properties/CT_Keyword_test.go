@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/baliance/gooxml/schema/soo/pkg/metadata/core_properties"
+	"github.com/IvanoffDan/gooxml/schema/soo/pkg/metadata/core_properties"
 )
 
 func TestCT_KeywordConstructor(t *testing.T) {

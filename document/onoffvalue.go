@@ -7,7 +7,7 @@
 
 package document
 
-import "github.com/baliance/gooxml/schema/soo/wml"
+import "github.com/IvanoffDan/gooxml/schema/soo/wml"
 
 // OnOffValue represents an on/off value that can also be unset
 type OnOffValue byte

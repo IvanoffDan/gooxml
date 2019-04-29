@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/baliance/gooxml"
+	"github.com/IvanoffDan/gooxml"
 )
 
 // XMLHeader is a header that MarshalXML uses to prefix the XML files it creates.

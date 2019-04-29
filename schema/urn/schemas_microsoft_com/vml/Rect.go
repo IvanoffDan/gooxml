@@ -13,10 +13,10 @@ import (
 	"encoding/xml"
 	"strconv"
 
-	"github.com/baliance/gooxml"
-	"github.com/baliance/gooxml/schema/urn/schemas_microsoft_com/office/excel"
-	"github.com/baliance/gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
-	"github.com/baliance/gooxml/schema/urn/schemas_microsoft_com/office/word"
+	"github.com/IvanoffDan/gooxml"
+	"github.com/IvanoffDan/gooxml/schema/urn/schemas_microsoft_com/office/excel"
+	"github.com/IvanoffDan/gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
+	"github.com/IvanoffDan/gooxml/schema/urn/schemas_microsoft_com/office/word"
 )
 
 type Rect struct {

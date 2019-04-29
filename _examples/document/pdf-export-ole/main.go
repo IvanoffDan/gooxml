@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/baliance/gooxml/document"
+	"github.com/IvanoffDan/gooxml/document"
 	ole "github.com/go-ole/go-ole"
 	"github.com/go-ole/go-ole/oleutil"
 )

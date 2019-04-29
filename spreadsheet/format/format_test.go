@@ -10,7 +10,7 @@ package format_test
 import (
 	"testing"
 
-	"github.com/baliance/gooxml/spreadsheet/format"
+	"github.com/IvanoffDan/gooxml/spreadsheet/format"
 )
 
 func TestCellFormattingNumber(t *testing.T) {

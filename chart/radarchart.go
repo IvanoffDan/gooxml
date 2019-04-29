@@ -7,7 +7,7 @@
 
 package chart
 
-import crt "github.com/baliance/gooxml/schema/soo/dml/chart"
+import crt "github.com/IvanoffDan/gooxml/schema/soo/dml/chart"
 
 // RadarChart is an Radar chart that has a shaded Radar underneath a curve.
 type RadarChart struct {

@@ -10,9 +10,9 @@ package spreadsheet
 import (
 	"runtime"
 
-	"github.com/baliance/gooxml"
-	"github.com/baliance/gooxml/common"
-	"github.com/baliance/gooxml/schema/soo/sml"
+	"github.com/IvanoffDan/gooxml"
+	"github.com/IvanoffDan/gooxml/common"
+	"github.com/IvanoffDan/gooxml/schema/soo/sml"
 )
 
 // New constructs a new workbook.

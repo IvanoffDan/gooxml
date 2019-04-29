@@ -10,8 +10,8 @@ package common
 import (
 	"strings"
 
-	"github.com/baliance/gooxml"
-	"github.com/baliance/gooxml/schema/soo/pkg/content_types"
+	"github.com/IvanoffDan/gooxml"
+	"github.com/IvanoffDan/gooxml/schema/soo/pkg/content_types"
 )
 
 // ContentTypes is the top level "[Content_Types].xml" in a zip package.

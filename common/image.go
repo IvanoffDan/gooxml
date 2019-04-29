@@ -13,7 +13,7 @@ import (
 	"image"
 	"os"
 
-	"github.com/baliance/gooxml/measurement"
+	"github.com/IvanoffDan/gooxml/measurement"
 	// Add image format support
 	_ "image/gif"
 	_ "image/jpeg"

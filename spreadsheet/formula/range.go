@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/baliance/gooxml/spreadsheet/reference"
+	"github.com/IvanoffDan/gooxml/spreadsheet/reference"
 )
 
 // Range is a range expression that when evaluated returns a list of Results.

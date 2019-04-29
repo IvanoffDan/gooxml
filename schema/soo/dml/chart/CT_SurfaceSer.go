@@ -12,8 +12,8 @@ package chart
 import (
 	"encoding/xml"
 
-	"github.com/baliance/gooxml"
-	"github.com/baliance/gooxml/schema/soo/dml"
+	"github.com/IvanoffDan/gooxml"
+	"github.com/IvanoffDan/gooxml/schema/soo/dml"
 )
 
 type CT_SurfaceSer struct {

@@ -1,1 +1,1 @@
-module github.com/baliance/gooxml
+module github.com/IvanoffDan/gooxml

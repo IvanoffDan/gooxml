@@ -5,7 +5,7 @@ import (
 	"log"
 	"math/rand"
 
-	"github.com/baliance/gooxml/spreadsheet"
+	"github.com/IvanoffDan/gooxml/spreadsheet"
 )
 
 func main() {

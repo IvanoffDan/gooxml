@@ -8,7 +8,7 @@
 package chart
 
 import (
-	crt "github.com/baliance/gooxml/schema/soo/dml/chart"
+	crt "github.com/IvanoffDan/gooxml/schema/soo/dml/chart"
 )
 
 // BubbleChart is a 2D Bubble chart.

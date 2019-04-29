@@ -7,7 +7,7 @@
 
 package document
 
-import "github.com/baliance/gooxml/schema/soo/wml"
+import "github.com/IvanoffDan/gooxml/schema/soo/wml"
 
 // Cell is a table cell within a document (not a spreadsheet)
 type Cell struct {

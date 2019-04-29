@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/baliance/gooxml/schema/soo/dml/picture"
+	"github.com/IvanoffDan/gooxml/schema/soo/dml/picture"
 )
 
 func TestCT_PictureNonVisualConstructor(t *testing.T) {

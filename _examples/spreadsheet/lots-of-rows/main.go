@@ -9,7 +9,7 @@ import (
 	"runtime/pprof"
 	"time"
 
-	"github.com/baliance/gooxml/spreadsheet"
+	"github.com/IvanoffDan/gooxml/spreadsheet"
 )
 
 var cpuprofile = flag.String("cpuprofile", "", "write cpu profile to file")

@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/baliance/gooxml"
+	"github.com/IvanoffDan/gooxml"
 )
 
 type CT_ChartFormat struct {

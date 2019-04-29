@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/baliance/gooxml/schema/soo/pkg/content_types"
+	"github.com/IvanoffDan/gooxml/schema/soo/pkg/content_types"
 )
 
 func TestOverrideConstructor(t *testing.T) {

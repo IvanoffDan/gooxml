@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/baliance/gooxml/schema/soo/ofc/math"
+	"github.com/IvanoffDan/gooxml/schema/soo/ofc/math"
 )
 
 func TestCT_AccPrConstructor(t *testing.T) {

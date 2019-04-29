@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/baliance/gooxml/schema/soo/dml/chartDrawing"
+	"github.com/IvanoffDan/gooxml/schema/soo/dml/chartDrawing"
 )
 
 func TestEG_ObjectChoicesConstructor(t *testing.T) {

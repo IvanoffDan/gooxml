@@ -11,7 +11,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/baliance/gooxml"
+	"github.com/IvanoffDan/gooxml"
 )
 
 func TestAddPreserveSpaceAttr(t *testing.T) {

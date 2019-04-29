@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/baliance/gooxml/schema/urn/schemas_microsoft_com/office/word"
+	"github.com/IvanoffDan/gooxml/schema/urn/schemas_microsoft_com/office/word"
 )
 
 func TestWrapConstructor(t *testing.T) {
